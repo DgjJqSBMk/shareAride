@@ -15,7 +15,7 @@ public class ShareARide {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("test 5s4");
+        System.out.println("test");
     }
     
 }
